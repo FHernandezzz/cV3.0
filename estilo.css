@@ -1,0 +1,21 @@
+h1{
+    color: purple;
+    margin-left: 72px;
+}
+
+nav{
+    background-color: #5b9ee1;
+    display: flex;
+}
+
+.boton{
+    background-color: #92e51b;
+    margin: 55px;
+    padding: 20px;
+}
+
+img{
+    padding:  20px;
+    border: #5b9ee1 solid 10px;
+    border-radius: 150px;
+}
